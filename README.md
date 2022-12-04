@@ -1,1 +1,1 @@
-# SmartContractWallet
+A virtual wallet smart contract which enables users to add their money in it and also give some allowance to spend to other users. The allowance will be decided by the owner only and users(who are allowed) can spend money from owner's wallet.In case if owner somehow cant control the wallet, there are maintainers who vote to decide who will be the next owner of the wallet.
